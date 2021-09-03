@@ -37,6 +37,9 @@ span{
     color: #ffffff;
     font-size: 1.2em;
 }
+.btn:active{
+    border: #000000 1px solid;
+}
 .btn-green{
     background-color: #28a745;
 }
